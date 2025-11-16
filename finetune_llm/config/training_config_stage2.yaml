@@ -1,0 +1,40 @@
+model:
+  base_model: "./models/gpt2-conversational-v1"  # Load Stage 1 output (OASST1-tuned model)
+  max_length: 512
+
+lora:
+  # LoRA configuration (same as Stage 1 for consistency)
+  use_lora: true
+  lora_r: 16                              # LoRA rank - determines the number of trainable parameters
+  lora_alpha: 32                          # LoRA alpha - scaling factor
+  lora_dropout: 0.05                      # Dropout rate for LoRA layers
+  target_modules: ["c_attn", "c_proj"]    # Target layers in GPT-2 for LoRA adaptation
+
+training:
+  output_dir: "./models/gpt2-recipe-final"  # Final model output directory
+  num_train_epochs: 1                       
+  per_device_train_batch_size: 4
+  per_device_eval_batch_size: 4
+  gradient_accumulation_steps: 4            # effective batch size = 4 * 4 = 16
+
+  # Optimization parameters
+  learning_rate: 2.0e-4                   
+  warmup_steps: 50                          
+  weight_decay: 0.01                        # regularization to prevent overfitting
+  fp16: true                                # use mixed precision training
+  optim: "paged_adamw_8bit"
+  lr_scheduler_type: "cosine"               # cosine learning rate decay
+
+  # Logging
+  use_wandb: true                           # Set to True to enable W&B logging
+  wandb_project: "gpt2-recipe-assistant"    # W&B project name for Stage 2
+  wandb_run_name: "stage2-recipe-finetuning"  # Run name
+
+  logging_steps: 25                         # log training metrics every 25 steps
+  save_steps: 100                           # save model checkpoint every 100 steps
+  eval_steps: 100                           # evaluate every 100 steps
+  save_total_limit: 3                       # maximum number of checkpoints to keep
+
+data:
+  train_data: "/content/datasets/datasets/Cleaned/recipe_gpt2/train"  # Your recipe data (preprocessed)
+  val_data: "/content/datasets/datasets/Cleaned/recipe_gpt2/val"      # Your recipe validation data

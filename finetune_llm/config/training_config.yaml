@@ -1,0 +1,40 @@
+model:
+  base_model: "./models/base/gpt2-medium"
+  max_length: 512
+
+lora:
+  # LoRA configuration
+  use_lora: true
+  lora_r: 16                              # LoRA rank - determines the number of trainable parameters (higher r = more params, better performance, but more memory)
+  lora_alpha: 32                          # LoRA alpha - scaling factor (Increases magnitude of updates but risk of overfitting)
+  lora_dropout: 0.05                      # Dropout rate for LoRA layers
+  target_modules: ["c_attn", "c_proj"]    # Target layers in GPT-2 for LoRA adaptation
+
+training:
+  output_dir: "./models/gpt2-conversational-v1"
+  num_train_epochs: 3
+  per_device_train_batch_size: 4
+  per_device_eval_batch_size: 4
+  gradient_accumulation_steps: 4        # effective batch size = per_device_train_batch_size * gradient_accumulation_steps
+
+  # Optimization parameters
+  learning_rate: 2.0e-4
+  warmup_steps: 96                      # helps stabilize training in early stages (approx 10% of total steps)
+  weight_decay: 0.01                    # regularization to prevent overfitting
+  fp16: true                            # use mixed precision training
+  optim: "paged_adamw_8bit"
+  lr_scheduler_type: "cosine"           # cosine learning rate decay
+
+  # Logging
+  use_wandb: true                         # Set to True to enable W&B logging
+  wandb_project: "gpt2-cooking-assistant" # W&B project name
+
+  logging_steps: 25                     # log training metrics every 25 steps (roughly 964 in total)
+  save_steps: 100                       # save model checkpoint every 100 steps
+  eval_steps: 100
+  save_total_limit: 3                   # maximum number of checkpoints to keep
+
+
+data:
+  train_data: "/content/datasets/datasets/OASST1/processed/oasst1_multiturn_en/train"
+  val_data: "/content/datasets/datasets/OASST1/processed/oasst1_multiturn_en/val"

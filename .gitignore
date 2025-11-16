@@ -1,0 +1,10 @@
+datasets/
+models/
+.DS_Store
+.vscode/
+__pycache__/
+.ipynb_checkpoints/
+env/
+finetune_llm/models/
+finetune_llm/data
+!finetune_llm/data/processed/oasst1_multiturn_en/samples.txt

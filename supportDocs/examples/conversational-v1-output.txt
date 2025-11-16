@@ -1,0 +1,122 @@
+
+======================================================================
+TEST RESPONSES
+======================================================================
+
+🔸 Query 1: How do I make scrambled eggs?
+----------------------------------------------------------------------
+Response: To make scrambled eggs, you can use a food processor or blender to blend all the ingredients together. You can also use a whisk to make sure all the ingredients are well blended. If you want to make the scrambled eggs more smooth, add a bit of milk or water to the mix.
+
+To make scrambled eggs, you can use a food processor or blender to blend all the ingredients together. You can also use a whisk to make sure all the ingredients are well blended. If you want to make the scrambled eggs more smooth, add a
+
+
+🔸 Query 2: What's the difference between baking and roasting?
+----------------------------------------------------------------------
+Response: In general, baking involves heating or cooling food, while roasting involves cutting or removing food from a food product. Both are methods of cooking, but there are some important differences.
+
+Baking:
+
+Baking involves heating or cooling food, usually by using a food processor or a food dehydrator. The process can take several hours or even days to complete, depending on the type of food you are baking.
+
+Roasting:
+
+Roasting involves removing food from a food product, usually by using a food dehydrator or by using a roasting pan. The process can take several hours or even days to complete, depending on the type of food you are roasting.
+
+Both baking and roasting can be used for different types of meals, such as soups, stews, stews, and pasta. Depending on your cooking style, you may want to consider the different types of baking for your cooking needs.
+
+Baking
+
+Baking involves heating or cooling food, usually by using a food processor or a food dehydrator. The process can take several hours or even days to complete, depending on the type of food you are baking.
+
+Roasting:
+
+Roasting involves cutting or removing food from a food
+
+
+🔸 Query 3: Can you explain what sautéing means?
+----------------------------------------------------------------------
+Response: Yes, sautéing is a method of cooking that involves adding water to a pan, stirring it with a spatula, and then adding the resulting mixture to a pan, which is heated to a specific temperature and then covered with a lid. The result is a sauce that is thick and creamy, and has a distinct flavor and aroma.
+
+
+Sautéing is a method of cooking that involves adding water to a pan, stirring it with a spatula, and then adding the resulting mixture to a pan, which is heated to a specific temperature and then covered with a lid. The result is a sauce that is thick and creamy, and has a distinct flavor and aroma.
+
+
+Sautéing is a method of cooking that involves adding water to a pan, stirring it with a spatula, and then adding the resulting mixture to a pan, which is heated to a specific temperature and then covered with a lid. The result is a sauce that is thick and creamy, and has a distinct flavor and aroma.
+
+
+Sautéing is a method of cooking that involves adding water to a pan, stirring it with a spatula, and then adding the resulting mixture to a pan, which is heated to a specific temperature and then covered with a lid
+
+
+🔸 Query 4: My cake collapsed in the middle. What went wrong?
+----------------------------------------------------------------------
+Response: Here are some steps to take when the cake is collapsing:
+
+1. Remove the pan from the oven and remove any excess
+
+
+🔸 Query 5: How do I know when pasta is done?
+----------------------------------------------------------------------
+Response: When pasta is done, it should be firm and have a nice crust. The edges of the pasta should be slightly browned, but not too brown.
+
+The pasta should be cooked for at least 3 minutes or until it is completely cooked through. If it is not cooked through, it is done.
+
+To check if pasta is done, open the pasta and put it in a bowl. Take a small spoonful of pasta and gently push it into the bowl. If the pasta is cooked through, it is done.
+
+If the pasta is still soft and not firm, the pasta is ready for use. You can add additional water or pasta to thin it out, but don't overdo it.
+
+After the pasta is cooked, you can remove the bowl from the pasta and place it on a cutting board. You can also use a fork to break apart the pasta into smaller pieces. You can also use a spoon to stir the pasta into the sauce.
+
+When the pasta is done, you can use it as a main course, or add a few pieces of fruit, nuts, or cheese to top the pasta.
+
+====================================================================================================================================
+
+
+======================================================================
+MULTI-TURN CONVERSATION TEST
+======================================================================
+
+👤 User: How do I make risotto?
+🤖 Assistant: Here are a few steps to make a risotto with chickpeas:
+
+1. Preheat oven to 425°F.
+2. In a large saucepan, combine the olive oil, lemon juice, and garlic.
+3. Add the rice, mushrooms, and the spinach.
+4. Bring to a boil, reduce heat to medium-low, and simmer for 15 minutes.
+5. Stir in the pasta and cook for 5 minutes, until tender.
+6
+
+👤 User: What type of rice should I use?
+🤖 Assistant: If you are making risotto with chickpeas, you may want to use a higher quality rice, such as white, brown, or black rice. Rice that is high in protein and calcium can provide a more tender and flavorful risotto.
+
+However, if you are making risotto with rice that is not high in protein and calcium, you may want to use a lower quality rice, such as brown rice, or black rice. These types of rice can provide a more tender and flavorful risotto.
+
+Here are some suggested rice varieties that are suitable for making risotto with chickpeas:
+
+Brown rice: Brown rice is a high-protein, low-calorie rice that is high in fiber and fiber-rich phytonutrients such as quinoa, amaranth, and chia seeds.
+
+Olive oil rice: Olive oil rice is a high-protein, low-calorie rice that is high in omega-3 fatty acids, such as flaxseed, chia seeds, and flaxseed oil.
+
+Black rice: Black rice is a high-protein, low-calorie rice that is high in omega-6 fatty acids, such as flaxseed, chia seeds, and flax
+
+👤 User: How long does it take?
+🤖 Assistant: It depends on the type of rice and the size of the dish. You can adjust the amount of time for each step by adding additional salt or vinegar, but be sure to do so in moderation.
+
+How to Make Risotto with Chickpeas
+
+Steps for making risotto with chickpeas:
+
+1. Preheat oven to 425°F.
+2. In a large saucepan, combine the olive oil, lemon juice, and garlic.
+3. Add the rice, mushrooms, and the spinach.
+4. Bring to a boil, reduce heat to medium-low, and simmer for 15 minutes.
+5. Stir in the pasta and cook for 5 minutes, until tender.
+6
+7. Add the chickpeas and rice and cook for another 5 minutes, until the chickpeas are cooked through.
+8. Add the remaining salt, vinegar, and oil and cook for another 5 minutes, until the risotto is cooked through.
+9. Transfer the risotto to a plate and serve.
+
+Tips for making risotto with chickpeas:
+
+1. Make sure that the risotto is cooked through and the pasta is not sticking to the bottom of the pan. This will prevent
+
+======================================================================
