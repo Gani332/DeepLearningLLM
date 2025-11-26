@@ -1,0 +1,116 @@
+How can I help you today?: I have chicken and rice, what can i make for dinner?
+
+Query 1: I have chicken and rice, what can i make for dinner?
+
+Context:  
+Similar recipes:
+1. to make chicken and rice, you'll need: chicken wings, uncooked, 1 can cream of chicken soup, 1 can cream of mushroom soup, 1 c. uncooked rice, 1 pkg. dry onion soup (lipton), 2 12 c. water, grated cheese. then follow these steps: 1. place uncooked chicken wings in baking dish. 2. pour rice over wings. 3. in separate bowl, mix mushroom soup, chicken soup, onion soup mix and water thoroughly. 4. pour this mixture over rice and chicken. 5. cover with foil and bake at 400 for 45 minutes. 6. remove foil and spread shredded cheese on top. 7. return to oven for 15 minutes.
+
+
+Answer: Chicken and rice can be made with a variety of ingredients. Here are some suggestions:
+
+1. chicken wings:
+
+1. Cut chicken wings in half lengthwise and place in a baking dish.
+2. Add chicken broth and salt to taste.
+3. Cover and bake for 15 minutes.
+
+4. Add uncooked rice and water to the chicken wings.
+5. Cover and bake for 15 minutes.
+
+6. Drain and rinse rice and chicken wings in cold water.
+
+7. Drain and rinse rice and chicken wings in hot water.
+
+8. Drain and rinse rice and chicken wings in cold water.
+
+9. Cook rice and chicken in a pot over medium-high heat for 3-4 minutes or until rice is tender.
+
+10. Add sliced mushrooms and saute for a minute or two.
+
+11. Add cream of chicken soup and cook for a minute or two.
+
+12. Add cream of mushroom soup and cook for a minute or two.
+
+13. Add rice and rice mixture to the pot and stir gently until rice is evenly coated.
+
+14. Add chopped onion and saute for a minute or two.
+
+15. Serve with chicken and rice
+
+
+Query 2: Is this a nutritious meal?
+
+Answer: This is a nutritious meal that can be easily incorporated into a healthy diet. It is not a complete meal and is not meant to replace other foods. However, it can be used as a simple meal to provide nutrients and fiber.
+
+
+===============================================================================================================================
+
+How can I help you today?: I have some chicken and vegetables, what can i make for dinner?
+
+Query 1: I have some chicken and vegetables, what can i make for dinner?
+
+Context:  
+ Similar recipes:
+1. you could make southern fried cabbage chicken stew. here are the instructions: 1. render fat from bacon 2. remove bacon from skillet and chop into bite size pieces 3. set aside and let drain on paper towels 4. shred cabbage as if making coleslaw 5. slice onions into thin half moon 6. saute cabbage and onion in bacon fat until lightly browned 7. mix bacon pieces in with cabbage and onions 8. set aside and let drain on paper towels 9. peel potatoes 10. dice into bite sized pieces 11. season chicken with soul seasoning and pepper 12. fry until well browned in skillet with bacon fat 13. add chicken broth , bouillon cubes , potatoes and water 14. boil until chicken well tender 15. set aside two chicken halves to cool 16. shred into chunky bite sized shreds 17. add chicken , potatoes , cabbage mixture and 2 cans of northern beans 18. boil all until rendered down into thick gravy like consistency 19. let cook until chicken is tender and all flavors are well blended , at least for 1-1 1 2 hours extra 20. remember the longer you cook this , the better it is going to taste , so a crock pot would be "perfect" for this particular dish 21. after and only after frying the chicken , you may take a paper towel and take the grease out of the pan , if you are cooking in a skillet or pot of some kind do not clean the skillet 22. you will need all the flavor on bottom of pan for flavoring
+
+
+Answer: There are many more instructions for chicken and vegetables, including the following:
+1. Cook the chicken in a slow cooker for 10 minutes or until browned.
+2. Remove from the slow cooker and cut into bite size pieces.
+3. Remove the chicken from the slow cooker and add
+Further questions: Is that particularly healthy?
+
+Query 2: Is that particularly healthy?
+
+Context:  
+ Previous conversation:
+User: I have some chicken and vegetables, what can i make for dinner?
+Assistant: There are many more instructions for chicken and vegetables, including the following:
+1. Cook the chicken in a slow cooker for 10 minutes or until browned.
+2. Remove from the slow cooker and cut into bite size pieces.
+3. Remove the chicken from the slow cooker and add
+ Similar recipes:
+1. i loved this salad! i left out the chicken, added yellow bell peppers, used green cabbage instead of red, and topped it all off with ken's vidalia dressing! thank you so much!
+
+
+Answer: Sure! Chicken and vegetables are rich in potassium, fiber, vitamins, minerals, and phytonutrients. They're also high in protein and healthy fats. They're also low in cholesterol and saturated fat.
+
+It's important to be aware of the health risks associated with consuming processed foods, especially when they contain added sugars and fats. This is especially true when it comes to processed foods containing trans fats.
+
+Here are some tips for healthy eating:
+
+1. Limit processed foods to one serving a day: Processed foods can contain trans fats and added sugars, which can increase your risk of heart disease, stroke, and diabetes.
+
+2. Try to eat whole, whole grains: Whole grains are high in fiber, minerals, and phytonutrients, which can help lower your risk of heart disease, stroke, and diabetes.
+
+3. Limit processed meat: Processed meats can contain trans fats and added sugars, which can increase your risk of heart disease, stroke, and diabetes.
+
+4. Eat fish and poultry: Fish, poultry, and eggs are high in omega-3 fatty acids and antioxidants, which can help lower your risk of heart disease, stroke, and diabetes.
+
+5. Eat organic: Organic fruits
+Further questions: quit
+
+===============================================================================================================================
+
+
+How can I help you today?: I have some beef and would like to make tacos, how can i do so?
+
+Query 1: I have some beef and would like to make tacos, how can i do so?
+
+
+Answer: To make beef-taco casserole, you'll need:
+1 lb. hamburg, 1 medium onion, chopped, 1- 15 12 oz. can kidney beans, 1- 8 oz. can tomato sauce, 2 tsp. chili powder, 12 tsp
+Further questions: what is healthy in that recipe?
+
+Query 2: what is healthy in that recipe?
+
+
+Answer: Healthy beef casserole can be made with any beef you can find, but the best thing is to use a beef chuck that is lean, flavorful and flavorful. A low-fat, low-sodium, high-protein, low-carb, high-fiber, low-glycemic, high-fiber, whole-grain beef chuck will do the trick.
+
+If you're making a low-fat, low-sodium, high-protein, low-carb, low-fat, whole-grain beef casserole, it can also be made with whole-grain beef, but that would be better with a whole-grain base like brown rice or quinoa.
+
+If you're making a low-fat, low-sodium, high-protein, low-carb, low-fat, whole-grain casserole, it can also be made with whole-grain beef, but that would be better with a whole-grain base like brown rice or quinoa. If you're making a low-fat, low-sodium, high-protein, low-carb, low-fat, whole-grain casserole, it can also be made with whole-grain ground beef, but that would be better with
+Further questions: quit
+
+Query 3: quit
